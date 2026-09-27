@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There!%20I'm%20[Your%20Name]&fontSize=40)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There!%20I'm%20[SrutiNokrak]&fontSize=40)
 
 # Hi 👋, I'm @srutinokrak
 Full-Stack Web Developer 
